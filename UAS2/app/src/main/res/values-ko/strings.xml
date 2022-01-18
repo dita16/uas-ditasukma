@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">고양이, 개 &amp; 페디아 독수리</string>
+    // Layout
+    <string name="pilih_gambar">(갤러리를 열려면 이미지를 선택하세요)</string>
+    <string name="daftar_ras_judul">동물 경주 목록</string>
+    <string name="go_back">반품</string>
+    <string name="kucing">고양이</string>
+    <string name="anjing">개</string>
+    <string name="elang">매</string>
+    <string name="kucing_list_title">고양이 목록</string>
+    <string name="anjing_list_title">개 품종 목록</string>
+    <string name="elang_list_title">독수리 경주 목록</string>
+    // Data kucing
+    <string name="angora_nama">앙고라</string>
+    <string name="angora_asal">칠면조</string>
+    <string name="angora_deskripsi">길고 부드러운 털의 특징으로 터키 앙카라 출신</string>
+    <string name="bengal_nama">벵골</string>
+    <string name="bengal_asal">영어</string>
+    <string name="bengal_deskripsi">아시아 표범 고양이와 영국 집 고양이의 교배 결과입니다.</string>
+    <string name="birmani_nama">버마니</string>
+    <string name="birmani_asal">버마/미얀마</string>
+    <string name="birmani_deskripsi">원래는 버마의 사원에 정착한 승려와 동행하던 고양이 품종이라고 합니다.</string>
+    <string name="persia_nama">페르시아 인</string>
+    <string name="persia_asal">이란</string>
+    <string name="persia_deskripsi">둥근 얼굴과 뭉툭한 코를 가진 장발 고양이. 원래 이란에서 이탈리아로 수입</string>
+    <string name="siam_nama">시암</string>
+    <string name="siam_asal">태국</string>
+    <string name="siam_deskripsi">Wichian Maat(태국 고양이)에서 파생된 고양이로 길고 날씬한 몸, 타원형 얼굴, 넓은 귀, 푸른 눈이 특징입니다.</string>
+    <string name="siberia_nama">시베리아</string>
+    <string name="siberia_asal">러시아</string>
+    <string name="siberia_deskripsi">두꺼운 털과 큰 몸집을 가지고 있지만 매우 민첩하고 점프 능력으로 유명한 러시아 고양이</string>
+    // Data anjing
+    <string name="bulldog_nama">불독</string>
+    <string name="bulldog_asal">영어</string>
+    <string name="bulldog_deskripsi">통통하고 근육질의 몸, 주름진 얼굴, 뭉툭한 코로 유명한 인기 개</string>
+    <string name="husky_nama">에스키모 개의</string>
+    <string name="husky_asal">알래스카, 시베리아, 핀란드(설원)</string>
+    <string name="husky_deskripsi">원래 썰매를 끌던 특별한 품종의 개</string>
+    <string name="kintamani_nama">킨타마니</string>
+    <string name="kintamani_asal">인도네시아</string>
+    <string name="kintamani_deskripsi">발리 섬이 원산지인 개 품종</string>
+    <string name="samoyed_nama">사모예드</string>
+    <string name="samoyed_asal">러시아</string>
+    <string name="samoyed_deskripsi">사모예드 부족이 가축을 지키는 데 사용했던 시베리아 원산의 개</string>
+    <string name="shepherd_nama">목자</string>
+    <string name="shepherd_asal">독일 사람</string>
+    <string name="shepherd_deskripsi">똑똑하고 강한 개, 지금은 경비견, 경호견, 경찰견으로 널리 사용 (K9)</string>
+    <string name="shiba_nama">시바</string>
+    <string name="shiba_asal">일본</string>
+    <string name="shiba_deskripsi">시바 지역의 이 개는 민첩하고 민첩하여 원래 사냥에 많이 사용되었습니다</string>
+    // Data elang
+    <string name="bido_nama">비도 독수리</string>
+    <string name="bido_asal">자바</string>
+    <string name="bido_deskripsi">비도 독수리는 종종 밤에 먹이를 찾고 이 독수리는 뱀, 생쥐, 다람쥐를 좋아합니다.</string>
+    <string name="gunung_nama">산 독수리</string>
+    <string name="gunung_asal">자바</string>
+    <string name="gunung_deskripsi">이 산독수리는 고지대에서 자주 만나며 작은 동물을 먹는 것을 좋아합니다.</string>
+    <string name="hitam_nama">검은 독수리</string>
+    <string name="hitam_asal">파푸아</string>
+    <string name="hitam_deskripsi">검은 독수리는 종종 파푸아 숲의 내부에서 발견되며 이 독수리는 작은 여우를 먹는 것을 좋아합니다.</string>
+    <string name="jawa_nama">자바 독수리</string>
+    <string name="jawa_asal">술라웨시</string>
+    <string name="jawa_deskripsi">자바 독수리는 일반적으로 아침에 종종 먹이를 찾는 이 독수리이며 이 독수리는 일출에 날개를 펼치는 것을 좋아합니다.</string>
+
+</resources>
